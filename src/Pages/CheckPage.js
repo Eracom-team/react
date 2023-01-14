@@ -2,7 +2,7 @@ import React from 'react'
 
 const CheckPage = () => {
     return (
-        <div>CheckPage</div>
+        <div>CheckPag bejbbee</div>
     )
 }
 
